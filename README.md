@@ -29,7 +29,7 @@ The dungeons you wander around in feel suspicious, and change you the more you s
 
 The creatures you encounter in the dungeons will give you choices, and the choices you make determine your journey. Are you going to fight or are you running away? Pax will do everything in his power to make you fail your goal, so stay alert when you're in there...
 
-## Your choices :next_track_button:
+## Your choices :milky_way:
 Bandersnatch is based on making choices, which affect the story of the game and is done by the player. Every choice you make alters the story in one way or another. So if you finish the game one way, and you decide to retry with other choices, you'll see that the story will end in some other way. 
 
 So every choice you make will be your own choice, that you personally made, right?
@@ -38,7 +38,7 @@ By creating the illusion of free will, we were able to make a game relatively sm
 
 This is what gives the game its replay-value, and with over 30 minutes of fresh, new gameplay, you will always be able to just start over and choose an entirely different story.
 
-## Credits:
+## Credits :trophy:
 
 **Sounds / Songs:**
 - https://free-sample-packs.com/300-free-16-bit-retro-arcade-sfx/
