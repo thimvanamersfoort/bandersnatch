@@ -1,3 +1,3 @@
-![Screenshot 1](Logos + Extra design/Screenshots/play.png)
+![Screenshot 1](play.png)
 
-# Bandersnatch
+# Bandersnatch: the game
