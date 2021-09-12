@@ -1,6 +1,6 @@
 ![Screenshot 1](https://github.com/thimvanamersfoort/bandersnatch/blob/main/Design/Screenshots/play.png)
 
-# Bandersnatch: The game
+# Bandersnatch: The game :ghost:
 
 Bandersnatch is an interactive story game, where you control your own story and ending. 
 
@@ -51,3 +51,8 @@ This is what gives the game its replay-value, and with over 30 minutes of fresh,
 - Piskel 0.14 Pixel-art Maker
 - Pixelator
 - Sfxr Sound generator
+
+### Notice:
+To build the project, please use the `Bandersnatch.sln` file, located in the `/Visual Studio Solution` folder. A playable version of the game can be found at `Visual Studio Solution/bin/Debug/Bandersnatch.exe`.
+
+*This project is no longer supported. Pull requests are welcome, but this codebase is no longer maintained by its developers.*
