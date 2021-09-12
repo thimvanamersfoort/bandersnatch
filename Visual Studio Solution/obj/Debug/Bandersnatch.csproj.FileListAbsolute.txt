@@ -1,0 +1,13 @@
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\obj\Debug\Bandersnatch.csprojAssemblyReference.cache
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\obj\Debug\Bandersnatch.FrmNotif.resources
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\obj\Debug\Bandersnatch.Properties.Resources.resources
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\obj\Debug\Bandersnatch.csproj.GenerateResource.cache
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\obj\Debug\Bandersnatch.csproj.CoreCompileInputs.cache
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\bin\Debug\Bandersnatch.exe.config
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\bin\Debug\Bandersnatch.exe
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\bin\Debug\Bandersnatch.pdb
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\obj\Debug\Bandersnatch.exe
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\obj\Debug\Bandersnatch.pdb
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\obj\Debug\Bandersnatch.FrmHome.resources
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\obj\Debug\Bandersnatch.FrmGame.resources
+D:\Projecten\BANDERSNATCH\Visual Studio Solution\Bandersnatch\obj\Debug\Bandersnatch.FrmHowTo.resources
