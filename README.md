@@ -2,7 +2,7 @@
 
 # Bandersnatch: The game :ghost:
 
-Bandersnatch is an interactive story game, where you control your own story and ending. 
+Bandersnatch is an interactive story game, where you control your own story and ending. The story is based on the movie *Bandersnatch* on Netflix. :film_strip: 	
 
 The game is heavily based on the film Bandersnatch (available on Netflix), and is created with the idea of having multiple paths in one story, each with a different ending. You control the game entirely using your mouse, so you won't need your keyboard (exept for filling in text ofcourse).
 
@@ -16,7 +16,7 @@ A pause button is located in the upper-left corner of the screen. This will alwa
 
 There are different easter eggs hidden in the game. These can be references to the original film Bandersnatch, other games and films, or just simple small jokes. We're not going to tell you where they are, so keep an eye out ;)
 
-## The Story
+## The Story :scroll:
 In Bandersnatch you play as an Agent. The Agent works for a secret service called The Agency and specializes in dealing with extreme threats.
 
 This time, you control The Agent when he goes after the demon Pax. Pax is hiding in the dungeons of an old castle in Ukraine, and as his power slowly increases, he is seen to become more and more dangerous, and must be dealt with as soon as possible.
@@ -29,7 +29,7 @@ The dungeons you wander around in feel suspicious, and change you the more you s
 
 The creatures you encounter in the dungeons will give you choices, and the choices you make determine your journey. Are you going to fight or are you running away? Pax will do everything in his power to make you fail your goal, so stay alert when you're in there...
 
-## Your choices
+## Your choices :next_track_button:
 Bandersnatch is based on making choices, which affect the story of the game and is done by the player. Every choice you make alters the story in one way or another. So if you finish the game one way, and you decide to retry with other choices, you'll see that the story will end in some other way. 
 
 So every choice you make will be your own choice, that you personally made, right?
@@ -52,7 +52,11 @@ This is what gives the game its replay-value, and with over 30 minutes of fresh,
 - Pixelator
 - Sfxr Sound generator
 
-### Notice:
+## Build and play :video_game:
 To build the project, please use the `Bandersnatch.sln` file, located in the `/Visual Studio Solution` folder. A playable version of the game can be found at `Visual Studio Solution/bin/Debug/Bandersnatch.exe`.
 
+
+
+
+### *Notice:*
 *This project is no longer supported. Pull requests are welcome, but this codebase is no longer maintained by its developers.*
